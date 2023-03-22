@@ -2,9 +2,9 @@
 Приложение "Социальная сеть"
 
 Команда разработчиков:
-- Ветров Константин
-- Иванов Кирилл
-- Буслаев Илья
+- [Ветров Константин](https://github.com/phluoroGG)
+- [Иванов Кирилл](https://github.com/CATyPH67)
+- [Буслаев Илья](https://github.com/Smokee0)
 
 ---
 
@@ -12,6 +12,6 @@
 
 [Miro](https://miro.com/app/board/uXjVMb0eRUM=/?share_link_id=119818405665)
 
-[Курсовой проект](https://docs.google.com/document/d/1Vi0j3pDHgRQQPfoS7wnfmgKSvm_55mBClJrGzs8Gl8I/edit#heading=h.30j0zll)
+[Курсовой проект](https://1drv.ms/w/s!AkjcFKH763V9hGt_-wTKqcQI8c9D)
 
-[Техническое задание](https://docs.google.com/document/d/16DjSpiwfOjp537gDQIXw7YqxP--Cu_EHCHOdixwMWCs/edit)
+[Техническое задание](https://1drv.ms/w/s!AkjcFKH763V9hG3OpbmHl4nvyZ2j)
