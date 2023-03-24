@@ -12,6 +12,6 @@
 
 [Miro](https://miro.com/app/board/uXjVMb0eRUM=/?share_link_id=119818405665)
 
-[Курсовой проект](https://1drv.ms/w/s!AkjcFKH763V9hGt_-wTKqcQI8c9D)
+[Курсовой проект](Documentation/Курсовой проект.pdf)
 
-[Техническое задание](https://1drv.ms/w/s!AkjcFKH763V9hG3OpbmHl4nvyZ2j)
+[Техническое задание](Documentation/Техническое задание.pdf)
