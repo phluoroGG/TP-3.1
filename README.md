@@ -1,5 +1,5 @@
 # ТП-3.1
-Приложение "Социальная сеть"
+Приложение Социальная сеть "Astario"
 
 Команда разработчиков:
 - [Ветров Константин](https://github.com/phluoroGG)
@@ -12,6 +12,6 @@
 
 [Miro](https://miro.com/app/board/uXjVMb0eRUM=/?share_link_id=119818405665)
 
-[Курсовой проект](Documentation/Курсовой проект.pdf)
+[Курсовой проект](https://github.com/phluoroGG/TP-3.1/blob/main/Documentation/Курсовой%20проект.pdf)
 
-[Техническое задание](Documentation/Техническое задание.pdf)
+[Техническое задание](https://github.com/phluoroGG/TP-3.1/blob/main/Documentation/Техническое%20задание.pdf)
