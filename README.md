@@ -8,7 +8,7 @@
 
 ---
 
-[MeisterTask](https://www.meistertask.com/app/project/bz2yKxLy/tp-3-1)
+[YouGile](https://ru.yougile.com/board/dc9ce8umvdzh)
 
 [Miro](https://miro.com/app/board/uXjVMb0eRUM=/?share_link_id=119818405665)
 
