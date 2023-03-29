@@ -15,3 +15,5 @@
 [Курсовой проект](https://github.com/phluoroGG/TP-3.1/blob/main/Documentation/Курсовой%20проект.pdf)
 
 [Техническое задание](https://github.com/phluoroGG/TP-3.1/blob/main/Documentation/Техническое%20задание.pdf)
+
+[Презентация](https://1drv.ms/p/s!AkjcFKH763V9hQggBU83nCO48LCn)
