@@ -18,4 +18,4 @@
 
 Презентация [(OneDrive)](https://1drv.ms/p/s!AkjcFKH763V9hQggBU83nCO48LCn) [(pptx)](https://github.com/phluoroGG/TP-3.1/blob/main/Documentation/Презентация%20Astario.pptx)
 
-Видео-презентация [(GoogleDrive)](https://drive.google.com/file/d/1qkqEnmdbZxzNIRbBb3n0LC5bor6e0ghw/view) [(mp4)](https://github.com/phluoroGG/TP-3.1/blob/main/Documentation/Видео-презентация%20ТП%203-1.mp4)
+Видео-презентация [(GoogleDrive)](https://drive.google.com/file/d/1qkqEnmdbZxzNIRbBb3n0LC5bor6e0ghw/view) [(YouTube)](https://www.youtube.com/watch?v=wdl7K-jKSUQ) [(mp4)](https://github.com/phluoroGG/TP-3.1/blob/main/Documentation/Видео-презентация%20ТП%203-1.mp4)
