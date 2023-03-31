@@ -12,8 +12,8 @@
 
 [Miro](https://miro.com/app/board/uXjVMb0eRUM=/?share_link_id=119818405665)
 
-[Курсовой проект](https://github.com/phluoroGG/TP-3.1/blob/main/Documentation/Курсовой%20проект.pdf)
+Курсовой проект [(docx)](https://github.com/phluoroGG/TP-3.1/blob/main/Documentation/Курсовой%20проект.docx) [(pdf)](https://github.com/phluoroGG/TP-3.1/blob/main/Documentation/Курсовой%20проект.pdf)
 
-[Техническое задание](https://github.com/phluoroGG/TP-3.1/blob/main/Documentation/Техническое%20задание.pdf)
+Техническое задание [(docx)](https://github.com/phluoroGG/TP-3.1/blob/main/Documentation/Техническое%20задание.docx) [(pdf)](https://github.com/phluoroGG/TP-3.1/blob/main/Documentation/Техническое%20задание.pdf)
 
-[Презентация](https://1drv.ms/p/s!AkjcFKH763V9hQggBU83nCO48LCn)
+Презентация [(OneDrive)](https://1drv.ms/p/s!AkjcFKH763V9hQggBU83nCO48LCn) [(pptx)](https://github.com/phluoroGG/TP-3.1/blob/main/Documentation/Презентация%20Astario.pptx)
