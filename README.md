@@ -5,6 +5,13 @@
 - [Ветров Константин](https://github.com/phluoroGG)
 - [Иванов Кирилл](https://github.com/CATyPH67)
 - [Буслаев Илья](https://github.com/Smokee0)
+- [Князев Роман](https://github.com/knyazevRm)
+
+---
+
+[Server](https://github.com/phluoroGG/AstarioServer)
+
+[Client](https://github.com/phluoroGG/AstarioClient)
 
 ---
 
